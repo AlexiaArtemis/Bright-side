@@ -1,7 +1,7 @@
-body{
+body {
     background-color:linen
 }
-img{
+.cat-image {
     height: 100px;
     width: 100px;
 }
