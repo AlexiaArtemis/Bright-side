@@ -1,6 +1,10 @@
 body{
     background-color:linen
 }
+img{
+    height: 200px;
+    width: 200px;
+}
 hr {border-style: none;
     border-top-style:dotted;
     border-color: grey;
